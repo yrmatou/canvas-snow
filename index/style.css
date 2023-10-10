@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+  }
+  canvas{
+    background: #0E3B5A;
+    -webkit-filter: blur( 2px ) contrast( 2 );
+  	-moz-filter: blur( 2px ) contrast( 2 );
+  	filter: blur( 2px ) contrast( 2 );
+  }
+  p{
+    position: fixed;
+    bottom:0;
+    color: #fff;
+    padding-left: 15px;
+  }
